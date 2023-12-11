@@ -185,5 +185,4 @@ pub fn part2() {
     let res = lcm::lcm(collected);
 
     println!("🦀🦀🦀 LCM of this numbers is: {:?} 🦀🦀🦀", res);
-    // LCM : 14321394058031
 }
